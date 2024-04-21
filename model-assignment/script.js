@@ -1,4 +1,7 @@
-import { dashboard, webcam } from "https://unpkg.com/@marcellejs/core";
+import {
+  dashboard,
+  webcam,
+} from "https://cdn.jsdelivr.net/npm/create-marcelle@0.1.1/index.min.js";
 
 const w = webcam();
 
